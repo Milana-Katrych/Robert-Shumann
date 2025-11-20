@@ -1,0 +1,40 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    background-color: black;
+}
+
+header
+{
+    text-align: center;
+    background-color: azure;
+    color: black;
+    padding: 20px;
+}
+
+main
+{
+    display: flex;
+    gap: 30px;
+}
+
+.text
+{
+    content: flex;
+    width: 1000px;
+}
+
+img
+{
+    width: 220px;
+    height: 300px;
+}
+
+.photo
+{
+    content: flex;
+    float: right;
+    margin: 0 auto;
+    margin-top: 100px;
+}
